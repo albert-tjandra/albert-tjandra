@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**albert-tjandra/albert-tjandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|   |   |   |   |   |   |   |   |   |   | B |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   | B | O | O | K | S |   |   |
+|   |   |   |   |   |   |   |   |   |   | U |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   | L |   |   |   |   |
+|   |   |   |   |   |   |   |   | C | O | D | I | N | G |   |
+|   |   |   |   |   |   |   |   |   |   | E |   |   |   |   |
+|   |   |   |   |   |   |   | R |   |   | R |   |   |   |   |
+|   |   |   |   |   |   |   | U |   |   | I |   |   |   |   |
+|   |   |   |   | P | E | N | G | U | I | N |   |   |   |   |
+|   |   |   |   |   |   |   | N |   |   | G | A | M | E | S |
+| M | I | N | I | M | A | L | I | S | T |   |   |   |   |   |
+|   |   |   |   |   |   |   | N |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   | G | Y | M |   |   |   |   |   |
