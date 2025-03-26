@@ -1,6 +1,6 @@
-##Hi, A.Tjandra here!
+## 👋 Hi, A.Tjandra here!
 
-I code in my free time, and everything here is inspired by my random ideas!
+I code in my free time 🕒, and everything here is inspired by my random ideas 💡!
 
 Get to know me better?
 My lifestyle, my hobbies, my activities:
